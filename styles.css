@@ -1,0 +1,15 @@
+/* Font Comfortaa */
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
